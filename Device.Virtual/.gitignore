@@ -97,7 +97,7 @@ ipch/
 *.vsp
 *.vspx
 *.sap
-*.vs/
+
 
 # TFS 2012 Local Workspace
 $tf/
@@ -291,9 +291,9 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
-/bin/Debug/net8.0/Automab.DeviceVirtual.pdb
-/bin/Debug/net8.0/Automab.DeviceVirtual.exe
-/bin/Debug/net8.0/Automab.DeviceVirtual.dll
-/bin/Debug/net8.0/Automab.DeviceVirtual.dll
-/bin/Debug/net8.0/Automab.DeviceVirtual.exe
-/bin/Debug/net8.0/Automab.DeviceVirtual.pdb
+/bin/Debug/net8.0/Device.Virtual.pdb
+/bin/Debug/net8.0/Device.Virtual.exe
+/bin/Debug/net8.0/Device.Virtual.dll
+/bin/Debug/net8.0/Device.Virtual.dll
+/bin/Debug/net8.0/Device.Virtual.exe
+/bin/Debug/net8.0/Device.Virtual.pdb
